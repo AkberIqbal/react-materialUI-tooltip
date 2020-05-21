@@ -9,7 +9,7 @@ import ClickAwayListener from "@material-ui/core/ClickAwayListener";
 
 const useStyles = makeStyles(theme => ({
   fab: {
-    margin: theme.spacing(2)
+    margin: theme.spacing(3)
   },
   customWidth: {
     padding: 14,
